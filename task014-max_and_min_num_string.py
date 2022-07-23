@@ -12,4 +12,5 @@ for i in list_1:
     if int(i) < min:
         min = int(i)
 print(f'{max} {min}')
+ 
         

@@ -14,3 +14,4 @@ b = int(input("Введите второе число: "))
 if a < b:
     a = b
 print(my_func(a, b))
+
